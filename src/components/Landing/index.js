@@ -5,8 +5,8 @@ import Card from '../Card';
 
 const Landing = () => (
   
-  <div class="container mx-auto p-2">
-  <h1 class="text-3xl py-8">Landing</h1>
+  <div className='container mx-auto p-2'>
+  <h1 className='text-3xl py-8'>Landing</h1>
     <ImageUpload />
     <Card />
   </div>
