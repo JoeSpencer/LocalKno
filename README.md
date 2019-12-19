@@ -1,4 +1,11 @@
-This is LocalKno, the community powered trail conditions app
+# This is LocalKno, the community powered trail conditions app
+
+Project to-dos
+
+- [x] Fix nav
+- [ ] Add image upload to card
+- [ ] Add more editable fields per card
+- [ ] Fix text in card
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
